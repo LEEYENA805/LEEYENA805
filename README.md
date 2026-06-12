@@ -1,4 +1,4 @@
-## 안녕하세욤 민트걸입니다람쥐 👋
+## 선린인터넷 고등학교 10516 이예나 프로필
 
 ### ✨ 안녕하세요!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&pause=1000&color=BDFCC9&width=500&lines=안녕하세요+개발자+민트걸입니다!;저의+깃허브에+오신걸+환영해요!)](https://git.io/typing-svg)
