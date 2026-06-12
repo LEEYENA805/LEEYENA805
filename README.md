@@ -1,12 +1,10 @@
 ## 안녕하세욤 민트걸입니다람쥐 👋
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&color=BDFCC9&width=500&lines=안녕하세요+개발자+민트걸입니다!;저의+깃허브에+오신걸+환영해요!&v=1" alt="Typing SVG" />
-</div>
 
+### ✨ 안녕하세요!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&pause=1000&color=BDFCC9&width=500&lines=안녕하세요+개발자+민트걸입니다!;저의+깃허브에+오신걸+환영해요!)](https://git.io/typing-svg)
 
-<!-- 방문자 수 배지 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEYENA805&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+### 👀 방문자 수
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F본인아이디&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <!--
 **LEEYENA805/LEEYENA805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
