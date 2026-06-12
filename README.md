@@ -1,6 +1,6 @@
 ## 안녕하세욤 민트걸입니다람쥐 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C5B&width=435&lines=Hello,+I'm+a+Developer!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C5B&width=435&lines=Hello,+안녕하세요+개발자+민트걸입니다!;저의+깃허브에+오신걸+환영해요!" alt="Typing SVG" />
 </div>
 
 <!-- 방문자 수 배지 -->
