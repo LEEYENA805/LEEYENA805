@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세욤 민트걸입니다람쥐 👋
 
 <!--
 **LEEYENA805/LEEYENA805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
