@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+KR&pause=1000&color=BDFCC9&width=500&lines=안녕하세요+개발자+민트걸입니다!;저의+깃허브에+오신걸+환영해요!)](https://git.io/typing-svg)
 
 ### 👀 방문자 수
-![Views](https://komarev.com/ghpvc/?username=LEEYENA805&color=mint&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=LEEYENA805&color=green&style=flat-square)
 <!--
 **LEEYENA805/LEEYENA805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
